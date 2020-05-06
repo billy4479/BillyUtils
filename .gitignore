@@ -1,0 +1,6 @@
+BillyUtils/bin
+BillyUtils/obj
+BillyUtils/BillyUtils.csproj
+BillyUtils.sln
+.vs
+.vscode
