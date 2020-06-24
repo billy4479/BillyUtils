@@ -3,4 +3,4 @@ This projects compile to a DLL which contains a bunch of utility functions that 
 This might not be perfect but I'll improve it when I will need to.
 
 ## Licence
-This software is under MIT Licence. View [LICENCE](LICENCE) file for further informations.
+This software is under MIT License. View [LICENSE](LICENSE) file for further informations.
